@@ -1,3 +1,5 @@
 venv/
+guilds/
+.vscode/
 *.data
 *.txt
